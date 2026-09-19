@@ -1,0 +1,9 @@
+ddgs
+requests
+groq
+google-generativeai
+python-dotenv
+pillow
+pydantic
+fastapi
+uvicorn[standard]
